@@ -1,10 +1,22 @@
 import { useState } from "react";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import ChooseUs from "./components/ChooseUs";
+import WeSell from "./components/WeSell";
+import ContactUs from "./components/ContactUs";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
+
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <Navbar />
+      <Hero />
+      <ChooseUs />
+      <WeSell />
+      <ContactUs />
+      <Footer />
     </>
   );
 }
