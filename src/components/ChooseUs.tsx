@@ -1,8 +1,8 @@
 function ChooseUs() {
   return (
     <section>
-      <div className="container mx-auto max-w-7xl py-10">
-        <h1 className="font-semibold text-6xl text-black text-center mx-auto">
+      <div className="container mx-auto max-w-7xl py-[50px]">
+        <h1 className="font-semibold text-6xl text-black text-center mx-auto pb-[30px]">
           ¿Por que elegirnos?
         </h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 px-5 xl:px-0">

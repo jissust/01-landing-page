@@ -1,11 +1,11 @@
 function WeSell() {
   return (
-    <section className="bg-gradient-to-t from-[#70BE45] to-[#159E51]">
-      <div className="container mx-auto max-w-7xl py-10">
-        <h1 className="font-semibold text-6xl text-white text-center mx-auto pb-5">
+    <section className="bg-gradient-to-t from-[#70BE45] to-[#159E51] py-[50px]">
+      <div className="container mx-auto max-w-7xl">
+        <h1 className="font-semibold text-6xl text-white text-center mx-auto  pb-[30px]">
           También vendemos
         </h1>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 px-5 xl:px-0 pb-5">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 px-5 xl:px-0 pb-10">
           <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4">
             <div>
               <svg
@@ -111,7 +111,7 @@ function WeSell() {
             <h3 className="text-xl font-bold text-white">Garantía y calidad</h3>
           </div>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 px-5 xl:px-0">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 px-5 xl:px-0 pb-5">
           <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4">
             <div>
               <svg
