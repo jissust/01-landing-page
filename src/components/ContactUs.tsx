@@ -1,4 +1,5 @@
-import map from "../assets/col-2.png";
+//import mapImage from "../assets/col-2.png";
+import Map from "./Map";
 
 function ContactUs() {
   return (
@@ -101,8 +102,9 @@ function ContactUs() {
             </li>
           </ul>
         </div>
-        <div className="flex flex-col">
-          <img src={map} alt="mapa" />
+        <div className="flex flex-col max-h-[500px]">
+          {/*<img src={mapImage} alt="mapa" /> */}
+          <Map />
         </div>
       </div>
     </section>
