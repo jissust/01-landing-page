@@ -13,7 +13,7 @@ function ContactUs() {
             Argentina
           </p>
           <h2 className="text-2xl font-bold">Teléfono:</h2>
-          <p>Llamanos al:011 4654-0927</p>
+          <p>Llamanos al: <a href="tel:011 4654-0927">011 4654-0927</a></p>
           <h2 className="text-2xl font-bold">E-mail:</h2>
           <p>
             <a href="mailto:ventas@cmdcomputacion.com" target="_blank">
@@ -23,6 +23,7 @@ function ContactUs() {
           <h1 className="font-semibold text-6xl text-black pb-[30px] mt-[74px]">Seguinos en:</h1>
           <ul className="flex gap-4">
             <li>
+              <a href="#" target="_blank">
               <svg
                 width="30"
                 height="31"
@@ -37,8 +38,10 @@ function ContactUs() {
                   fill="black"
                 />
               </svg>
+              </a>
             </li>
             <li>
+            <a href="#" target="_blank">
               <svg
                 width="30"
                 height="31"
@@ -55,8 +58,10 @@ function ContactUs() {
                   fill="black"
                 />
               </svg>
+              </a>
             </li>
             <li>
+            <a href="#" target="_blank">
               <svg
                 width="30"
                 height="31"
@@ -99,6 +104,7 @@ function ContactUs() {
                   stroke-linejoin="round"
                 />
               </svg>
+              </a>
             </li>
           </ul>
         </div>
