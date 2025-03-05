@@ -4,7 +4,7 @@ function ContactUs() {
   return (
     <section className="container mx-auto max-w-7xl px-5 xl:px-0 py-[50px]">
       <div className="grid grid-cols-1 sm:grid-cols-2">
-        <div className="flex flex-col">
+        <div className="flex flex-col pb-10 sm:pb-0">
           <h1 className="font-semibold text-6xl text-black pb-[30px]">Contactanos</h1>
           <h2 className="text-2xl font-bold">Donde estamos:</h2>
           <p>
