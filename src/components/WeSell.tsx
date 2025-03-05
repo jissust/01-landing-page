@@ -5,8 +5,8 @@ function WeSell() {
         <h1 className="font-semibold text-6xl text-white text-center mx-auto  pb-[30px]">
           También vendemos
         </h1>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-4 px-5 xl:px-0 pb-5 sm:pb-10">
-          <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4 col-span-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-4 px-5 xl:px-0 pb-5 sm:pb-0">
+          <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4 col-span-2 mb-0 sm:mb-[20px]">
             <div>
               <svg
                 width="43"
@@ -32,7 +32,7 @@ function WeSell() {
               Presupuesto sin cargo
             </h3>
           </div>
-          <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4 col-span-2">
+          <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4 col-span-2 mb-0 sm:mb-[20px]">
             <div>
               <svg
                 width="44"
@@ -76,7 +76,7 @@ function WeSell() {
               Reparaciones Express
             </h3>
           </div>
-          <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4 col-span-2">
+          <div className="border shadow-[8px_8px_0_#333333] rounded-3xl p-2 grid grid-flow-col items-center justify-center gap-4 col-span-2 mb-0 sm:mb-[20px]">
             <div>
               <svg
                 width="43"
