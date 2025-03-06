@@ -18,29 +18,29 @@ function ChooseUs() {
                 <path
                   d="M3.99591 27.6599L38.6272 27.6599C39.3629 27.6599 39.9592 27.0635 39.9592 26.3279V7.68025C39.9592 6.94462 39.3629 6.34827 38.6272 6.34827L3.99591 6.34827C3.26029 6.34827 2.66394 6.94462 2.66394 7.68025V26.3279C2.66394 27.0635 3.26029 27.6599 3.99591 27.6599Z"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinejoin="round"
                 />
                 <path
                   d="M5.3279 31.6558H37.2953M7.99184 35.6517H34.6313"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
                 <path
                   d="M21.3116 23.6639C24.9897 23.6639 27.9714 20.6822 27.9714 17.004C27.9714 13.3259 24.9897 10.3442 21.3116 10.3442C17.6334 10.3442 14.6517 13.3259 14.6517 17.004C14.6517 20.6822 17.6334 23.6639 21.3116 23.6639Z"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
                 <path
                   d="M39.9592 13.0081C38.1929 13.0081 36.4989 12.3065 35.25 11.0575C34.001 9.80854 33.2993 8.11457 33.2993 6.34827M2.66395 13.0081C3.53853 13.0081 4.40456 12.8359 5.21257 12.5012C6.02058 12.1665 6.75476 11.6759 7.37319 11.0575C7.99161 10.4391 8.48217 9.7049 8.81686 8.89689C9.15155 8.08888 9.32382 7.22285 9.32382 6.34827M39.9592 21C38.1929 21 36.4989 21.7016 35.25 22.9506C34.001 24.1996 33.2993 25.8935 33.2993 27.6598M2.66395 21C3.53853 21 4.40456 21.1722 5.21257 21.5069C6.02058 21.8416 6.75476 22.3322 7.37319 22.9506C7.99161 23.569 8.48217 24.3032 8.81686 25.1112C9.15155 25.9192 9.32382 26.7853 9.32382 27.6598"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
               </svg>
             </div>
@@ -61,15 +61,15 @@ function ChooseUs() {
                 <path
                   d="M21.3116 5.0163C12.4872 5.0163 5.32788 12.1757 5.32788 21C5.32788 29.8243 12.4872 36.9837 21.3116 36.9837C30.1359 36.9837 37.2952 29.8243 37.2952 21C37.2952 12.1757 30.1359 5.0163 21.3116 5.0163Z"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-miterlimit="10"
+                  strokeWidth="2"
+                  strokeMiterlimit="10"
                 />
                 <path
                   d="M21.3116 10.3442V22.3319H29.3034"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
               </svg>
             </div>
@@ -103,8 +103,8 @@ function ChooseUs() {
                 <path
                   d="M21.3116 38.3156C30.8747 38.3156 38.6272 30.5632 38.6272 21C38.6272 11.4368 30.8747 3.68433 21.3116 3.68433C11.7484 3.68433 3.99591 11.4368 3.99591 21C3.99591 30.5632 11.7484 38.3156 21.3116 38.3156Z"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-miterlimit="10"
+                  strokeWidth="2"
+                  strokeMiterlimit="10"
                 />
               </svg>
             </div>
@@ -126,15 +126,15 @@ function ChooseUs() {
                 <path
                   d="M33.9654 7.68024H8.65788C6.08318 7.68024 3.99597 9.76744 3.99597 12.3421V29.6578C3.99597 32.2325 6.08318 34.3197 8.65788 34.3197H33.9654C36.5401 34.3197 38.6273 32.2325 38.6273 29.6578V12.3421C38.6273 9.76744 36.5401 7.68024 33.9654 7.68024Z"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
                 <path
                   d="M3.99597 15.6721H38.6273M10.6558 24.6629H14.6518V26.3279H10.6558V24.6629Z"
                   stroke="black"
-                  stroke-width="2"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinejoin="round"
                 />
               </svg>
             </div>

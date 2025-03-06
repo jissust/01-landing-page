@@ -8,8 +8,8 @@ function Map() {
   const map = useRef(null);
   const tokyo = { lng: -58.6096, lat: -34.6539 };
   const zoom = 14;
-  maptilersdk.config.apiKey = "eTIbY0ct3u9PdrMvcuyL";
-
+  maptilersdk.config.apiKey = import.meta.env.VITE_API_KEY_MAPTILDER;
+  
   useEffect(() => {
     if (map.current) return; // stops map from intializing more than once
 
